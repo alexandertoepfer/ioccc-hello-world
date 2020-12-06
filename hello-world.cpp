@@ -1,7 +1,7 @@
 #include <iostream>
 #include <cstring>
 #include <sstream>
-#include "constants"
+#include "constants.hpp"
 
                          #define chr unsigned char
                      /*+-+-+-+-*/#define puts(x) ot(x)
